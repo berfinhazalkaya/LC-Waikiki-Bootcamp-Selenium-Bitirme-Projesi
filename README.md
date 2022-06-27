@@ -27,3 +27,6 @@ LC Waikiki Bootcamp Web/Selenium Bitirme Projesi
 - src/test/resources/testSuites/Parallel.xml dosyasından çalıştırılmalıdır.
 
 Ayrıca projede doğru senaryoyla yeni kayıt oluşturma ve yanlış senaryoyla yeni kayıt oluşturma adımları da gösterilmiştir. Bu kısımları da çalıştırmak için src/main/testRunners/runner dosyasındaki tags kısmı yorum satırına alınmalıdır.
+
+## Raporlar
+Raporlar(Cucumber Rapor ve Spark Rapor), Reports klasörünün içinde bulunmaktadır. 
